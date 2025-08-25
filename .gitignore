@@ -1,0 +1,5 @@
+.env
+release_cache.json
+
+.venv/
+.idea/
