@@ -6,7 +6,7 @@ The system will emit a HTTP POST call to a webhook that can be specified. The pa
 ```json
 {
     "title": "📢 GitHub Starred Repo Updates",
-    "message": "'Repository Name' has a new release"",
+    "message": "'Repository Name' has a new release",
     "url": "Changelog URL"
 }
 ```
